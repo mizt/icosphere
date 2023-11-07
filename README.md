@@ -2,6 +2,8 @@
 
 ### References
 
+https://blog.coredumping.com/subdivision-of-icosahedrons/
+
 ##### three.js    
 https://github.com/mrdoob/three.js/blob/master/src/geometries/IcosahedronGeometry.js
 

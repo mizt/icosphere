@@ -1,11 +1,25 @@
 # icosphere
 
+![](./fig1.png)    
+![](./fig2.png)
+
 ### References
 
 https://blog.coredumping.com/subdivision-of-icosahedrons/
 
-##### three.js    
+##### blender    
+![](./blender/fig1.png)    
+![](./blender/fig2.png)
+
+##### three
+
 https://github.com/mrdoob/three.js/blob/master/src/geometries/IcosahedronGeometry.js
+
+![](./three/fig1.png)    
+![](./three/fig2.png)
 
 ##### oF    
 https://github.com/darrenmothersele/openFrameworks/blob/master/3d/ofMesh.cpp#L1770
+
+![](./oF/fig1.png)    
+![](./oF/fig2.png)
